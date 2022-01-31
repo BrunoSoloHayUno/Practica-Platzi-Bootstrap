@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-blog-hawaii",
+  "version": "1.0.0",
+  "description": "weas proyecto Boostrap blog/pagina conferencia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Cachero <ch_canchero@live.com.ar>",
+  "license": "MIT"
+}
